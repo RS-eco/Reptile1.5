@@ -1,5 +1,5 @@
 ---
-title: "Potential future climate change effects on global reptile distribution and diversity"
+title: "Potential effects of future climate change on global reptile distributions and diversity"
 author: ""
 date: '`r Sys.Date()`'
 output:
@@ -95,7 +95,7 @@ class: large
 ]
 
 .pull-right[
-```{r, echo=F, out.height = "60%"}
+```{r, echo=F, eval=F, out.height = "60%"}
 knitr::include_graphics("https://royalsocietypublishing.org/cms/asset/913910bd-4b75-4316-96bc-d02ba3ce70b6/rspb20180792f02.jpg")
 ```
 ]
